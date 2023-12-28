@@ -52,4 +52,4 @@
 
 ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/0087c3b3-860f-4985-b374-5f03e6303a6f)
 
-   
+![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/4863eb8a-5a62-487e-af10-c48aa406c833)
