@@ -38,7 +38,7 @@
 ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/df2538ce-4d73-490e-8cd1-153a03d09060)
 
 
-5. Now go to Azure DevOps portal 
+5. Now go to `Azure DevOps Portal` 
 
     Select any project
     
