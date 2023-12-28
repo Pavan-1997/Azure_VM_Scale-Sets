@@ -38,10 +38,10 @@
 
 5. Now go to Azure DevOps portal 
 
-Select any project
-
-Go to Project settings
-
-In Pipelines -> Select Agent pools
-
-Click on Add pool -> Select pool type - Azure virtual machine scale set -> Give name to the agent pool -> Max - 2,Min - 1 -> Select Grant access permission to all pipelines -> Click on Create
+    Select any project
+    
+    Go to Project settings
+    
+    In Pipelines -> Select Agent pools
+    
+    Click on Add pool -> Select pool type - Azure virtual machine scale set -> Give name to the agent pool -> Max - 2,Min - 1 -> Select Grant access permission to all pipelines -> Click on Create
