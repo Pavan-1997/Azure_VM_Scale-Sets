@@ -1,6 +1,6 @@
 # Azure_VM_Scale-Sets
 
-1. Go to Azure Portal
+1. Go to `Azure Portal`
 
 
 2. Search and open Virtual machine scale sets
