@@ -17,7 +17,7 @@
     
     Select all 3 Availability zones 
     
-    Select Orchestration mode - Uniform 
+    Select Orchestration mode - `Uniform` 
     
     Select Size - Standard_B1s
     
