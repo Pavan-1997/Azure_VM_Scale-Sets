@@ -19,15 +19,15 @@
     
     Select Orchestration mode - `Uniform` 
     
-    Select Size - Standard_B1s
+    Select Size - `Standard_B1s`
     
     Click on Next and go to Networking
     
-    Load balancing options - None 
+    Load balancing options - `None` 
     
     Click on Next and go to Scaling 
     
-    Initial instance count - 2
+    Initial instance count - `2`
     
     Scaling policy - Manual
     
