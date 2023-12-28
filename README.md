@@ -53,3 +53,22 @@
 ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/0087c3b3-860f-4985-b374-5f03e6303a6f)
 
 ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/4863eb8a-5a62-487e-af10-c48aa406c833)
+
+
+6. Now go to the Azure VM Scale Sets
+
+   Go to Extensions + applications
+
+   Click on Add
+
+   Search and select `Custom script for linux`
+
+   In Command - `sudo apt update && sudo apt install nodejs npm`
+
+   Click on Create
+
+   Click on `Upgrade extensions` to apply changes
+
+   ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/ef206bb9-8886-45e1-ae8b-b39d61e32bc8)
+
+
