@@ -47,3 +47,9 @@
     In Pipelines -> Select Agent pools
     
     Click on Add pool -> Select pool type - Azure virtual machine scale set -> Give name to the agent pool -> Max - 2,Min - 1 -> Select Grant access permission to all pipelines -> Click on Create
+
+    After approximately 15 - 20 minutes the Agent becomes online and only 1 instance will be running
+
+![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/0087c3b3-860f-4985-b374-5f03e6303a6f)
+
+   
