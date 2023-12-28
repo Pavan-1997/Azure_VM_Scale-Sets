@@ -63,12 +63,12 @@
 
    Search and select `Custom script for linux`
 
-   In Command - `sudo apt update && sudo apt install nodejs npm`
+   You can give the location of a Script file to be executed 
 
    Click on Create
 
    Click on `Upgrade extensions` to apply changes
 
-   ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/ef206bb9-8886-45e1-ae8b-b39d61e32bc8)
+ ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/ef206bb9-8886-45e1-ae8b-b39d61e32bc8)
 
 
