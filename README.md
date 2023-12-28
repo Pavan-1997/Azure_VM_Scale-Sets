@@ -29,11 +29,11 @@
     
     Initial instance count - `2`
     
-    Scaling policy - Manual
+    Scaling policy - `Manual`
     
     Now click on Review+Create
     
-    Now click on Download private key and create resource
+    Now click on the Download private key and create a resource
 
 ![image](https://github.com/Pavan-1997/Azure_VM_Scale-Sets/assets/32020205/df2538ce-4d73-490e-8cd1-153a03d09060)
 
